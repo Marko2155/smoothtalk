@@ -1,0 +1,27 @@
+{
+  "name": "smoothtalk",
+  "version": "1.0.0",
+  "description": "The servers for smoothtalk, a 2000's era instant messaging service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marko2155/smoothtalk.git"
+  },
+  "keywords": [
+    "im",
+    "messaging",
+    "server"
+  ],
+  "author": "Marko2155",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marko2155/smoothtalk/issues"
+  },
+  "homepage": "https://github.com/Marko2155/smoothtalk#readme",
+  "devDependencies": {
+    "express": "^4.19.2"
+  }
+}
